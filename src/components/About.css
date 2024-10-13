@@ -1,0 +1,19 @@
+#about {
+  padding: 50px;
+}
+
+.about-content {
+  display: flex;
+  gap: 50px;
+  align-items: center; 
+}
+
+.about-content img {
+  width: 150px; 
+  height: auto; 
+  border-radius: 10px; 
+}
+
+.bio p {
+  font-size: 1.2rem;
+}
